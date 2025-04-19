@@ -81,3 +81,4 @@ Tracks recency and frequency of access. Adjusts memory layer position:
 ---
 
 Cognisphere offers a new way to think about memory in AI — modular, intelligent, and aligned with how we actually think.
+
